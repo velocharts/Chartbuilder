@@ -83,7 +83,7 @@ var defaultGneissChartConfig = {
 		}
 	],
 	sourceline: "",
-	creditline: "Made with Chartbuilder"
+	creditline: "velocharts.com"
 }
 
 var Gneiss = {
