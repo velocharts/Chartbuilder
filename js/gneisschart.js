@@ -25,7 +25,7 @@ var defaultGneissChartConfig = {
 	editable: true,
 	legend: true,
 	title: "",
-	colors: ["#ff4cf4","#ffb3ff","#e69ce6","#cc87cc","#b373b3","#995f99","#804c80","#665266","#158eff","#99cdff","#9cc2e6","#87abcc","#7394b3","#5f7d99","#466780","#525c66"],
+	colors: ["#0ce3e3","#e30c0c","#e69ce6","#cc87cc","#b373b3","#995f99","#804c80","#665266","#158eff","#99cdff","#9cc2e6","#87abcc","#7394b3","#5f7d99","#466780","#525c66"],
 	padding :{
 		top: 25,
 		bottom: 50,
